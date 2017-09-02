@@ -1,0 +1,13 @@
+C:\WorkSpace\Demo\MIPushDemo\MIPushDemo\bin\Debug\MIPushDemo.exe.config
+C:\WorkSpace\Demo\MIPushDemo\MIPushDemo\bin\Debug\MIPushDemo.exe
+C:\WorkSpace\Demo\MIPushDemo\MIPushDemo\bin\Debug\MIPushDemo.pdb
+C:\WorkSpace\Demo\MIPushDemo\MIPushDemo\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\WorkSpace\Demo\MIPushDemo\MIPushDemo\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\WorkSpace\Demo\MIPushDemo\MIPushDemo\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\WorkSpace\Demo\MIPushDemo\MIPushDemo\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\WorkSpace\Demo\MIPushDemo\MIPushDemo\bin\Debug\IKVM.Runtime.dll
+C:\WorkSpace\Demo\MIPushDemo\MIPushDemo\bin\Debug\json-simple-1.1.1.dll
+C:\WorkSpace\Demo\MIPushDemo\MIPushDemo\bin\Debug\MiPush_SDK_Server_2_2_18.dll
+C:\WorkSpace\Demo\MIPushDemo\MIPushDemo\obj\Debug\MIPushDemo.csprojResolveAssemblyReference.cache
+C:\WorkSpace\Demo\MIPushDemo\MIPushDemo\obj\Debug\MIPushDemo.exe
+C:\WorkSpace\Demo\MIPushDemo\MIPushDemo\obj\Debug\MIPushDemo.pdb
